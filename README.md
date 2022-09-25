@@ -24,3 +24,6 @@
 
 ## 0922
 homework practice
+
+## 0925
+practice-2 (at home)
